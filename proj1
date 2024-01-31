@@ -1,0 +1,42 @@
+<html>
+    <h1 > <p align="center">  
+        <span style="font-family: cursive;"> 
+        <span style="color:plum"> A </span>
+        <span style="color:rgb(192, 93, 192)"> R </span>
+        <span style="color:rgb(79, 13, 79)"> D </span>
+        <span style="color:rgb(36, 123, 103)"> E </span>
+        <span style="color:rgb(72, 63, 180)"> N </span>
+        <span style="color:powderblue"> _ </span>
+        <span style="color:rgb(207, 148, 38)">  V </span> </span>
+    </h1>
+    <h2 style="color:rgb(182, 109, 251)"> <p align="center"><em>
+        Computer Science </p> </em>
+    </h2>
+    <body style="background-color:powderblue;">
+        <div style="color:rgb(190, 88, 190)">  10.243.37.235 </div>
+        <br/>
+        <div style="color:rgb(182, 109, 251)"> Stratton, Vermont </div>
+        <br/> <br/>
+        <img src="mtn1.jpg" width="200"/>
+           <span style="color:rgb(105, 61, 105)"> This is a photo that I took in Bigsky, Montanna. Even though 
+            I chose the picture, I would say that my favroite place in the 
+            world is any ski mountain out west, I love most of them for their 
+            own special reasons. The mountains are my happy place.</span>
+            <br/> <br/>
+              <div style="color:purple">  <p align="center"> My favorite resteraunt has the best Pad See Ew <span style="color:rgb(228, 8, 228)"> <strong> EVER! </strong> </span> </p></div>
+              <p align="center"> <a href="https://houseofsiam542.com/" target="_blank">It is called House of Siam </a> </p>
+        <br/> <br/>
+        <div style="color:palevioletred"> Something that no one would expect about me is that 
+            I was a competive mogul skier! (yes, my knees are broken) 
+            <br/> <br/>
+            <span style="font-family: cursive;"> <span style="color:rgb(103, 103, 181)"> I also have many pet fish. I just got two 
+                new goldfish and a tank for my dorm room. Their names are <span style="color:rgb(253, 253, 255)"> Wiggle </span>            
+                     <img src="wiggle.jpg" width="100"/>
+                <span style="color:rgb(103, 103, 181)"> and </span> <span style="color:rgb(0, 0, 0)"> Squiggle :) </span> </span>
+
+
+                <img src="squiggle.jpg" width="100"/>
+            <div style="color:rgb(199, 35, 182)"> <strong> Arent they cute? </strong></div>
+        </div>
+    </body>
+</html>
