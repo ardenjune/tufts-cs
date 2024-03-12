@@ -1,0 +1,62 @@
+[
+	{
+		"name": "vanilla",
+		"price": "$3.50",
+		"description": "it's a classic for a reason",
+		"category": ["cupcake"]
+	},
+	{
+		"name": "tripple chocolate",
+		"price": "$3.50",
+		"description": "chocolate cake, chocolate frosting, chocolate filling, chocolate everything!",
+		"category": ["cupcake"]
+	},
+	{
+		"name": "birthday cake",
+		"price": "$4.00",
+		"description": "vanilla cake topped with a specialty cake pop, certainly something to celebrate.",
+		"category": ["cupcake", "special"]
+	},
+	{
+		"name": "strawberry shortcake",
+		"price": "$4.00",
+		"description": "strawberry cake, whipped cream frosting, strawberry filling, and a strawberry on top!",
+		"category": ["cupcake", "special"]
+	},
+	{
+		"name": "chocolate chip",
+		"price": "$3.00",
+		"description": "ooey gooey chocolatey goodness!",
+		"category": ["cookie"]
+	},
+	{
+		"name": "sugar and sprinkles",
+		"price": "$3.00",
+		"description": "it's a rainbow party in every bite.",
+		"category": ["cookie"]
+	},
+	{
+		"name": "s'mores",
+		"price": "$3.50",
+		"description": "fresh from the campfire, topped with a roasted marshmallow!",
+		"category": ["cookie", "special"]
+	},
+	{
+		"name": "salted caramel",
+		"price": "$3.50",
+		"description": "a butter cookie smothered in caramel and flakey sea salt.",
+		"category": ["cookie", "special"]
+	},
+	{
+		"name": "brownie",
+		"price": "$4.00",
+		"description": "each one will have the crunch of a corner piece.",
+		"category": ["bars"]
+	},
+	{
+		"name": "blondie",
+		"price": "$4.50",
+		"description": "imagine a chocolate chip cookie and a brownie had a love child!",
+		"category": ["bars", "special"]
+	}
+]
